@@ -19,6 +19,8 @@ Paso 7: Bucle Principal
 
 ![alt text](<Captura de pantalla 2025-06-25 220329.png>)
 
+![alt text](<Captura de pantalla 2025-06-25 225206.png>)
+
 ![alt text](<Captura de pantalla 2025-06-25 213742.png>)
 
 ![alt text](<Captura de pantalla 2025-06-24 211151.png>)
