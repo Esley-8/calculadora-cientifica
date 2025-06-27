@@ -301,4 +301,50 @@ if __name__ == "__main__":
    # Iniciar bucle principal
     ventana.mainloop()
 
+#Inicio del programa # type: ignore 
+    #↓
+#Importaciones y variables globales (Paso 1) # type: ignore 
+    #↓
+#Definición de funciones (Pasos 2-4) # type: ignore 
+    #↓
+#Función crear_boton() (Paso 5) # type: ignore 
+    #↓
+# if __name__ == "__main__": 
+    # ↓
+   
+#Creación de ventana y widgets (Paso 5) # type: ignore 
+    #↓
+#Creación de todos los botones (Paso 6) # type: ignore 
 
+    #↓
+# ventana.mainloop()# ← ¡AQUÍ COMIENZA LA MAGIA!
+    # ↓
+# [La aplicación queda en espera de eventos]
+    # ↓
+#Usuario hace clic en un botón # type: ignore
+    # ↓
+#Se ejecuta la función correspondiente # type: ignore
+    # ↓
+#[Vuelve a esperar eventos...]
+    # ↓
+#Usuario cierra la ventana # type: ignore
+    #↓
+#Fin del programa # type: ignore
+
+#!/usr/bin/env python3
+
+#[Imports y variables globales - Paso 1]
+
+#[Funciones básicas - Paso 2]
+ 
+#[Funciones científicas - Paso 3]
+
+#[Funciones de memoria - Paso 4]
+
+#[Función crear_boton() - Paso 5]
+
+
+if __name__ == "__main__":
+    #[Configuración de ventana - Paso 5]
+    #[Creación de botones - Paso 6]
+    ventana.mainloop()  # ← Paso 7
